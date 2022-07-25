@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+body {
+    background: linear-gradient(113.49deg, #986238 -30.3%, #181E41 58.12%);
+
+
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Caveat', cursive;
+
+    /* font: normal 20px 'Caveat', cursive; */
+}
+
+.date {
+    color: rgb(255, 255, 255);
+}
+
+li:hover {
+    color: rgb(255, 255, 255);
+}
+
+
+a {
+    color: rgb(191, 0, 0);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    color: rgb(31, 124, 0);
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+}
+h2:hover {
+    color: aqua;
+}
+
+h3:hover {
+    color: aqua;
+}
+
+
+
+h3 {
+    color: rgb(255, 255, 255);
+}
+
+
+.AVA {
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 9px 8px 15px rgba(0, 0, 0, 0.25);
+}
+
+.content {
+    width: 200px;
+    border-radius: 10px;
+    margin: 10;
+}
+
+.content:hover {
+    box-shadow: 9px 8px 15px rgba(150, 139, 255, 0.25);
+    transition: 0.3s ease-in;
+
+}
+
+.info p {
+    color: #f2f2f2;
+
+}
+
+p:hover {
+    color: aqua;
+    transition: 0.4s ease-in;
+    
+
+
+}
+
+.container {
+    max-width: 75%;
+    margin: auto;
+    color: rgb(255, 255, 255);
+}
+
+.container table {
+    color: rgb(255, 255, 255);
+}
+
+table:hover {
+color: aqua;
+
+}
+
+
